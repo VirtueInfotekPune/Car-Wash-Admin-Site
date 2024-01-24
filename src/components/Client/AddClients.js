@@ -102,7 +102,7 @@ const AddClients = () => {
 
       
         <Form.Group controlId="fullName">
-          <Form.Label>Full Name of Agent:</Form.Label>
+          <Form.Label>Full Name of Client:</Form.Label>
           <Form.Control
             type="text"
             name="clientName"
